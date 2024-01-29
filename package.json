@@ -10,7 +10,7 @@
     "send_event": "node_modules/.bin/probot receive -e pull_request -p ./test/approvals/fixtures/pull_request.edited.json ./approvals/app.js"
   },
   "dependencies": {
-    "@octokit/core": "3.2.4",
+    "@octokit/core": "3.6.0",
     "axios": "0.21.0",
     "body-parser": "^1.20.0",
     "dotenv": "8.2.0",
